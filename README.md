@@ -1,8 +1,31 @@
 # Walmart Sales SQL Project (MySQL)
 
-## 📖 Overview
-This project analyzes a **Walmart Sales Dataset** using MySQL queries.  
-It demonstrates **basic queries, filtering, aggregations, subqueries, date-time analysis, and advanced SQL functions** to extract meaningful business insights.
+## Project Summary 📖
+This project analyzes Walmart’s retail sales data using SQL (MySQL) to uncover actionable insights about branches, products, customers, and sales trends over time. It demonstrates strong SQL skills and the ability to convert raw transactional data into meaningful business insights.
+
+## Key Features & Components
+- Import & clean raw sales transaction data
+- Feature engineering: derive time_of_day, day_name, and month_name columns
+- SQL queries for:
+  - Branch-level performance
+  - Product-line revenue & ranking
+  - Customer segmentation (by gender, type)
+  - Payment method analysis
+  - Sales across time periods (hour, day, month)
+- Insights & recommendations based on query results
+- README with instructions and sample SQL scripts
+
+## Technologies / Tools Used
+- SQL / MySQL (or another relational DB)
+- CSV / dataset import
+- SQL scripting & queries
+- Documentation
+
+## Why It’s Valuable
+- Shows ability to wrangle transactional data
+- Demonstrates use of SQL for analytics (aggregations, joins, windowing)
+- Converts raw data into actionable business insights
+- Strong portfolio piece for data / analytics roles
 
 ## 🗂 Dataset Schema (sales table)
 
