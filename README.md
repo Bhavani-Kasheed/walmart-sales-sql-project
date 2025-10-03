@@ -32,7 +32,6 @@ It demonstrates **basic queries, filtering, aggregations, subqueries, date-time 
 - Use **MySQL window functions** for ranking and cumulative sales.  
 
 ## 📑 SQL Queries
-All queries are saved in [`walmart_sales_queries.sql`](walmart_sales_queries.sql).  
 They are grouped into:  
 1. Basic Queries  
 2. Filtering & Conditions  
